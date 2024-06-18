@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <!-- for google farfield hotword detection -->
+    <feature name="com.google.android.feature.GLOBAL_ASSIST_TRIGGERING" />
+    <feature name="com.google.android.feature.HOTWORD" />
+    <feature name="com.google.android.feature.ECHO_REFERENCE" />
+</permissions>
